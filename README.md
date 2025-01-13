@@ -6,6 +6,16 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 
+
+### 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C533%20hrs%2015%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-757-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
+<!--END_SECTION:waka-->
+
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
