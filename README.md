@@ -9,11 +9,64 @@
 
 ### 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C533%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-757-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 40 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                16 commits          ████████████████░░░░░░░░░   64.00 % 
+🌆 Daytime                9 commits           █████████░░░░░░░░░░░░░░░░   36.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   14 commits          ██████████████░░░░░░░░░░░   56.00 % 
+Tuesday                  3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 8 commits           ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+YAML                     31 mins             ███████████████████░░░░░░   77.85 % 
+Markdown                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+
+🔥 Editors: 
+VS Code                  40 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    40 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 14/01/2025 01:36:46 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Like to meet me?
