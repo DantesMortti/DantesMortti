@@ -11,15 +11,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-40%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-159-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 40 Bytes Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2025
+> 📦 43 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,19 +52,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     31 mins             ███████████████████░░░░░░   77.85 % 
-Markdown                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Python                   42 mins             █████████████░░░░░░░░░░░░   50.83 % 
+YAML                     32 mins             ██████████░░░░░░░░░░░░░░░   38.38 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    40 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/01/2025 01:36:46 UTC
+ Last Updated on 15/01/2025 00:43:32 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Like to meet me?
