@@ -9,15 +9,17 @@
 
 ### 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-159-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-160-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 43 Bytes Used in GitHub's Storage 
+> 📦 44 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,20 +54,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   42 mins             █████████████░░░░░░░░░░░░   50.83 % 
-YAML                     32 mins             ██████████░░░░░░░░░░░░░░░   38.38 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Python                   2 hrs 13 mins       ███████████████████░░░░░░   76.39 % 
+YAML                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/01/2025 00:43:32 UTC
+ Last Updated on 16/01/2025 00:42:56 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Like to meet me?
