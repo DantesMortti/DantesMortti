@@ -9,6 +9,8 @@
 
 ### 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%208%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
@@ -62,7 +64,7 @@ Linux                    5 mins              ███████████�
 ```
 
 
- Last Updated on 03/05/2025 00:49:49 UTC
+ Last Updated on 04/05/2025 00:56:31 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Like to meet me?
