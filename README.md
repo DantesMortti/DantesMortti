@@ -54,17 +54,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    7 mins              ██████████████████░░░░░░░   70.64 % 
+Python                   3 mins              ███████░░░░░░░░░░░░░░░░░░   29.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    10 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/05/2025 00:54:39 UTC
+ Last Updated on 13/05/2025 00:52:35 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Like to meet me?
