@@ -9,7 +9,7 @@
 
 ### 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -17,7 +17,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 72 Bytes Used in GitHub's Storage 
+> 📦 73 Bytes Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2025
  > 
@@ -54,8 +54,8 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 mins              ██████████████████░░░░░░░   70.64 % 
-Python                   3 mins              ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+Other                    7 mins              ██████████████████░░░░░░░   70.47 % 
+Python                   3 mins              ███████░░░░░░░░░░░░░░░░░░   29.53 % 
 
 🔥 Editors: 
 VS Code                  10 mins             █████████████████████████   100.00 % 
@@ -65,7 +65,7 @@ Linux                    10 mins             ███████████�
 ```
 
 
- Last Updated on 13/05/2025 00:52:35 UTC
+ Last Updated on 14/05/2025 00:52:02 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Like to meet me?
