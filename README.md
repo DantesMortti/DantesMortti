@@ -9,6 +9,8 @@
 
 ### 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%205%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
@@ -52,18 +54,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 29 mins             ████████████████░░░░░░░░░   63.52 % 
-Python                   17 mins             █████████░░░░░░░░░░░░░░░░   36.48 % 
+Markdown                 29 mins             ████████████████░░░░░░░░░   63.85 % 
+Python                   16 mins             █████████░░░░░░░░░░░░░░░░   36.15 % 
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
+VS Code                  46 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    47 mins             █████████████████████████   100.00 % 
+Linux                    46 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/05/2025 00:52:37 UTC
+ Last Updated on 23/05/2025 00:52:38 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Like to meet me?
