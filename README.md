@@ -17,7 +17,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 79 Bytes Used in GitHub's Storage 
+> 📦 80 Bytes Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2025
  > 
@@ -54,18 +54,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 mins             █████████████████████████   99.75 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/06/2025 00:55:34 UTC
+ Last Updated on 06/06/2025 00:52:46 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Like to meet me?
