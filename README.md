@@ -9,7 +9,7 @@
 
 ### 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -18,6 +18,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 94 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,7 +64,7 @@ Linux                    25 mins             ███████████�
 ```
 
 
- Last Updated on 11/07/2025 00:55:56 UTC
+ Last Updated on 12/07/2025 00:57:22 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Like to meet me?
